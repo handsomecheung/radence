@@ -32,12 +32,12 @@ Supports common audio formats via [lofty](https://crates.io/crates/lofty), inclu
 cargo build --release
 ```
 
-The compiled binary will be located at `target/release/Radence`.
+The compiled binary will be located at `target/release/radence`.
 
 ## Usage
 
 ```text
-Radence <COMMAND> [OPTIONS]
+radence <COMMAND> [OPTIONS]
 ```
 
 ### Commands
